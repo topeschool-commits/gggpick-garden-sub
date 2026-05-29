@@ -1,22 +1,22 @@
 {
     "domain": "garden.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "식물 및 화분",
+        "원예 도구",
+        "베란다 조경"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang garden items."
+        "식물 및 화분": {
+            "topic": "Indoor plants, flower pots, succulents.",
+            "role": "Plant care expert."
         },
-        "수유/이유식": {
-            "topic": "garden bottle sterilizers, garden food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "원예 도구": {
+            "topic": "Pruning shears, watering cans, gardening gloves.",
+            "role": "Gardening tool reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "베란다 조경": {
+            "topic": "Plant stands, artificial grass, grow lights.",
+            "role": "Home landscaping guide."
         }
     }
 }
